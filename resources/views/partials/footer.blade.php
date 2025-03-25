@@ -1,4 +1,13 @@
-@vite('resources/css/app.css')
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Futer User</title>
+    @vite('resources/css/app.css')
+</head>
+<body>
 <footer class="w-full bg-[#2F81DF]">
     <div class="flex gap-70 p-5">
 <div class="text-white ">
@@ -14,3 +23,5 @@
 </div>
 </div>
 </footer>
+</body>
+</html>
